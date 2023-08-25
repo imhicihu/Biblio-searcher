@@ -9,18 +9,27 @@
 <BR></BR>
 ![graphics.png](images/Screen_Shot.png)
 
+### Tests
+* Tested & validated in these browsers:
+    * Internet Explorer
+    * Microsoft Edge
+    * Mozilla Firefox
+    * Apple Safari
+    * Vivaldi
+    * Opera
+    * Opera GX
+    * Brave
+    * Google Chrome
+   
 ### Who do I talk to? ###
-
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
+      
 ### Code of Conduct
-
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
-
 * All trademarks are the property of their respective owners.
 
 ### License ###
-
 * The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
