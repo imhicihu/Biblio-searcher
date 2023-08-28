@@ -11,15 +11,16 @@
 
 ### Tests
 * Tested & validated in these browsers:
-    * Internet Explorer
-    * Microsoft Edge
-    * Mozilla Firefox
-    * Apple Safari
-    * Vivaldi
-    * Opera
-    * Opera GX
-    * Brave
-    * Google Chrome
+
+| Browser | validate |
+|:--|:--|
+| Internet Explorer | ✓ |
+| Microsoft Edge | ✓ |
+| Firefox Developer edition| ✓ |
+| Apple Safari | ✓ |
+| Opera | ✓ |
+| Brave | ✓ |
+| Google Chrome | ✓ |
    
 ### Who do I talk to? ###
 * Repo owner or admin
