@@ -10,7 +10,7 @@
 ![graphics.png](images/Screen_Shot.png)
 
 ### Tests
-* Tested & validated in these browsers:
+* Tested & validated in these web browsers:
 
 | Browser | validate |
 |:--|:--|
@@ -18,6 +18,7 @@
 | Microsoft Edge | ✓ |
 | Firefox Developer edition| ✓ |
 | Apple Safari | ✓ |
+| Apple Safari Technology Preview| ✓ |
 | Opera | ✓ |
 | Brave | ✓ |
 | Google Chrome | ✓ |
