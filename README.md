@@ -3,8 +3,8 @@
 
 # RATIONALE #
 
-* Internal tool that involves a database searcher of our library  and open to everyone
-* The goals proposed and achieved have been minimalism in its design, consistency with other tools soon to appear, and speed of response
+* Web-app that involves a database searcher of our library and open to everyone
+* The goals proposed and achieved have been minimalism in its design, consistency with other tools soon to appear, scalability across time and speed of response
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
 ![graphics.png](images/Screen_Shot.png)
