@@ -34,8 +34,9 @@
 ### Code of Conduct
 * Please, check our [Code of Conduct](code_of_conduct.md)
 
-### Legal ###
-* All trademarks are the property of their respective owners.
+### Privacy policy & Legal issues###
+* We do not collect any kind of data: no cookies, no advertising platform, no analytics tools 
+* All trademarks are the property of their respective owners
 
 ### License ###
 * The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
