@@ -2,7 +2,7 @@
   <img src="images/repository-open-graph-template.png?raw=true" alt="Logotipo de Biblio-searcher"/>
 </p>
 
-![stability-workinprogress](images/477405737-stability_work_in_progress.png)
+![archived](images/status_archived.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
 # RATIONALE
